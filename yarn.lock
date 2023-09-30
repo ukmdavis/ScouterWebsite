@@ -8309,7 +8309,7 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-tinacms@1.5.20, tinacms@^1.5.6:
+tinacms@1.5.20, tinacms@^1.5.20:
   version "1.5.20"
   resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-1.5.20.tgz#f04b4f991f48184b497f710a019dde33b8e1e42c"
   integrity sha512-qOMpgPPRd0QIqzP0Q4hR+PO9r1MZqZzN0Ipxu8c+ohLDwtLSIacIZos98+aDKabh7PLcxn8m4Hhh09Iwdd5Kfg==
